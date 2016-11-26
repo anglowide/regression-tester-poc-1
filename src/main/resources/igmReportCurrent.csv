@@ -1,0 +1,5 @@
+Fund,GuidelineId,GuidelineName,Status,Comment
+ABC,GL-001,Not more than n positions,Pass,Ok
+ABC,GL-002,Single position not more than 100mio,Pass,Ok
+DEF,GL-001,Not more than n positions,Pass,Ok
+DEF,GL-002,Single position not more than 100mio,Fail,TR-006
